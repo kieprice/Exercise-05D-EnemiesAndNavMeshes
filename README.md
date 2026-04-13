@@ -4,7 +4,14 @@
 
 ## Implementation
 
-Main menu and end screen, materials for walls and floor, interactable that triggers ending, directional light and point light.
+A first-person player-controlled character that can move with keyboard and mouse control
+A generative maze
+one object to pick up or interact with
+one enemy to impede progress
+A use of 2 materials
+A use of 2 light sources
+A main menu, and an end-game screen
+clear objective
 
 ## References
 
